@@ -66,8 +66,4 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 
 
 
-- **Tested APIs through Curl and Browser**:
-  - Verified CRUD operations using curl commands and a web browser.
 
-## Conclusion
-This internship provided valuable hands-on experience with AWS services, enhancing my skills in cloud computing and serverless architecture. The practical tasks and projects helped solidify my understanding of various AWS tools and their real-world applications.
