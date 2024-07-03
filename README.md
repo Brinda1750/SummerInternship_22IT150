@@ -16,7 +16,8 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 - **Orientation Meeting**: Introduction to AWS and overview of the internship tasks
   - The meeting began with a Q&A session to establish a foundational understanding of AWS. The tasks for the first week, including account creation and portfolio generation hosted on an AWS instance, were discussed.
 
-![AWS Bootcamp](https://media.licdn.com/dms/image/C4E22AQHZqrKVMi6FOw/feedshare-shrink_2048_1536/0/1666809813685?e=1723075200&v=beta&t=p5q0SSwNpNf4moUF9QJ1M4GloydKL8bm-zCtff0Mxo4)
+<img src="https://media.licdn.com/dms/image/C4E22AQHZqrKVMi6FOw/feedshare-shrink_2048_1536/0/1666809813685?e=1723075200&v=beta&t=p5q0SSwNpNf4moUF9QJ1M4GloydKL8bm-zCtff0Mxo4" alt="AWS Bootcamp" width="350"/>
+
 
 ### Week 1 Outline:
 
@@ -58,7 +59,38 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
   - `cd /var/www/html`: navigate to the HTML directory
 
 - **Deployed a Personal `page.html` on Apache**:
-  - Deployed a simple HTML page in Apache’s root directory, making it accessible via the instance's public IP address.(http://13.238.253.183/personalpage.html)
+  - Deployed a simple HTML page in Apache’s root directory, making it accessible via the instance's public IP address.(http://3.26.149.37/personalpage.html)
+
+### Day 3: Building the Portfolio
+- **Setting Up the Project Structure**:
+  - Created a project directory with folders for HTML, CSS, JavaScript, and assets.
+  - Initialized the project with a basic `index.html` file.
+
+- **Creating the HTML Structure**:
+  - Developed the portfolio structure using HTML5, including sections for the header, about me, projects, and contact information.
+
+- **Integrating Bootstrap**:
+  - Used Bootstrap for a responsive and modern design. Utilized components like navigation bars, cards, and buttons.
+
+### Day 4: Enhancing with JavaScript, SASS, and CSS
+- **Adding Interactivity with JavaScript**:
+  - Implemented interactive features like form validation and dynamic content loading.
+
+- **Styling with SASS and CSS**:
+  - Used SASS for more maintainable and modular CSS. Compiled SASS files into CSS and applied custom styles.
+
+- **Finalizing the Deployment**:
+  - Ensured all files were correctly linked and the website was functioning. Tested on different browsers and devices.
+
+### Day 5: Configuration and Final Touch-Up
+- Configured the Security Group for the Apache server to accept connections on port 80.
+- Verified the configuration by accessing the personal webpage via the EC2 instance's public IP address.
+
+- **Finalized Link**: [Personal Page](http://3.26.149.37/personalpage.html)
+
+## Notes:
+- **Helpful Repo**: [AWS Services Documentation](https://github.com/hamidgholami/accp-cheatsheet)
+
 
 
 
