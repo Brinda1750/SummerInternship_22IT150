@@ -112,6 +112,30 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 9. Find out these events and logs for them in CloudTrail
 10. Shutdown the EC2 instance created in Week 1
 
+## 📝 Day-by-Day Progress
+
+### Day 1: Creating and Configuring an S3 Bucket
+- **Created a new S3 bucket**:
+  - Amazon S3 allows scalable object storage.
+
+- **Set the bucket's permissions to private**:
+  - Ensured the bucket's security by making permissions private.
+
+- **Uploaded files to the bucket**:
+  - Tested storage and retrieval capabilities.
+
+### Day 2: Securing and Distributing Content
+- **Enabled encryption for the uploaded files**:
+  - Ensured data is encrypted at rest.
+
+- **Created a CloudFront distribution and integrated it with the S3 bucket**:
+  - Set up CloudFront for low latency and high transfer speeds.
+
+- CDN(Content Delivery Network) --
+
+<img src="https://www.akamai.com/site/en/images/article/what-is-a-cdn.png" width="550" height="300"/>
+
+
 
 
 
