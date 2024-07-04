@@ -92,6 +92,27 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 - **Helpful Repo**: [AWS Services Documentation](https://github.com/hamidgholami/accp-cheatsheet)
 
 
+## 2️⃣ Week 2
+### *4th June 2024*
+- **Online Session**: Learning about storage and S3 with its related services, transitioning from EC2 to S3
+  - The session began with rapid questions regarding Week 1 tasks.
+
+![AWS Cloudfront](https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2023/02/22/AWS-Pi-Day-2023-Video-small-2.gif)
+
+### Week 2 Outline:
+
+1. Create a Bucket
+2. Make it private
+3. Upload files
+4. Encrypt the files
+5. Create a Distribution
+6. Integrate it with S3
+7. Create a new KMS Key
+8. Change the Default Key for your bucket to this new key
+9. Find out these events and logs for them in CloudTrail
+10. Shutdown the EC2 instance created in Week 1
+
+
 
 
 
