@@ -179,6 +179,26 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
   - Investigated best practices for implementing error handling in Step Functions workflows, appreciating the significance of resilience in service orchestration.
 
 
+## 3️⃣ Week 3
+### *12th June 2024*
+- **Online Session**: Introduction to AWS DynamoDB, API Gateway, and Lambda Functions
+  - Focused on building a serverless backend using AWS services like DynamoDB, API Gateway, and Lambda Functions. Worked on creating CRUD APIs for managing items in a DynamoDB table.
+
+<img src="https://miro.medium.com/v2/resize:fit:875/1*wTzGiPWycNkklwBPDeVbMw.png" height="400"/>
+
+### Week 3 Outline:
+
+1. Create a table in DynamoDB
+2. Write a Lambda Function as a Backend
+3. Configure API Endpoints on API Gateway
+4. Get /items
+5. Put /items
+6. Get /items/{id}
+7. Delete /items/{id}
+8. Configure API Endpoints with Lambda Code
+9. Test Out APIs through Curl and Browser
+
+## 📝 Day-by-Day Progress
 
 
 
