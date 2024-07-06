@@ -133,7 +133,28 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 
 - CDN(Content Delivery Network) --
 
-<img src="https://www.akamai.com/site/en/images/article/what-is-a-cdn.png" width="550" height="300"/>
+<img src="https://delante.co/wp-content/uploads/2019/11/cdn-definicja-2.png" width="400" height="200"/>
+
+### Day 3: Advanced Security and Monitoring
+- **Created a new KMS key**:
+  - Managed encryption keys using AWS KMS.
+
+- **Changed the default encryption key for the S3 bucket to the new KMS key**:
+  - Ensured future objects are encrypted with the KMS key.
+
+- **Used CloudTrail to track events and logs**:
+  - Monitored and logged activities for compliance and security analysis.
+
+- **Shut down the EC2 instance created in Week 1**:
+  - Optimized resource usage and avoided unnecessary charges.
+
+### Day 4-5: Exploring New AWS Services
+- **Explored AWS Athena's Capabilities**:
+  - Investigated SQL queries, data partitioning, and AWS Glue Data Catalog integration.
+
+- **Explored Data Integration and Orchestration**:
+  - Researched AWS Glue's ETL features and AWS Step Functions' orchestration capabilities.
+
 
 
 
