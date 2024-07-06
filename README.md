@@ -155,6 +155,29 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 - **Explored Data Integration and Orchestration**:
   - Researched AWS Glue's ETL features and AWS Step Functions' orchestration capabilities.
 
+### Day 4: Discovering AWS Athena's Capabilities
+
+➠ Explored the versatility of SQL queries in AWS Athena
+  - Investigated the range of SQL queries possible in AWS Athena, understanding how it interacts with data stored in S3 and the types of analysis that can be performed.
+    
+➠ Examined data partitioning strategies*:
+  - Studied various data partitioning strategies and their impact on query performance in Athena, gaining insights into how partitioning contributes to cost savings.
+    
+➠ Learned about AWS Glue Data Catalog integration
+  - Explored how AWS Glue Data Catalog serves as a central metadata repository and how it integrates with Athena to make S3 data easily searchable and queryable.
+
+### Day 5: Exploring Data Integration and Orchestration
+
+➠ Investigated AWS Glue's ETL capabilities
+  - Researched AWS Glue's ETL features, understanding how it automates the extraction, transformation, and loading of data for analytics.
+    
+➠ Familiarized with AWS Step Functions' orchestration
+  - Learned about AWS Step Functions and its ability to coordinate multiple AWS services into serverless workflows, grasping the basics of service orchestration.
+    
+➠ Reviewed error handling in Step Functions workflows*:
+  - Reviewed best practices for implementing error handling in Step Functions workflows, appreciating the importance of resilience in service orchestration.
+
+
 
 
 
