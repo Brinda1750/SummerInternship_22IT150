@@ -200,6 +200,15 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 
 ## 📝 Day-by-Day Progress
 
+### Day 1: Creating a Table in DynamoDB
+- **Created a table in DynamoDB**:
+  - Configured the table with a primary key and necessary attributes.
+
+### Day 2: Writing Lambda Functions
+- **Wrote a Lambda Function as a Backend**:
+  - Developed a Lambda function in Python to interact with DynamoDB for CRUD operations.
+
+
 
 
 
