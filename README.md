@@ -115,21 +115,21 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 ## 📝 Day-by-Day Progress
 
 ### Day 1: Creating and Configuring an S3 Bucket
-- **Created a new S3 bucket**:
-  - Amazon S3 allows scalable object storage.
-
-- **Set the bucket's permissions to private**:
-  - Ensured the bucket's security by making permissions private.
-
-- **Uploaded files to the bucket**:
-  - Tested storage and retrieval capabilities.
+➠ Created a new S3 bucket:
+- I started by creating a new Amazon S3 bucket. Amazon S3 is a scalable object storage service that allows for the storage and retrieval of any amount of data at any time.
+ 
+➠ Set the bucket's permissions to private:
+- Ensured the bucket's security by setting its permissions to private, making sure that only authorized users have access to the stored data.
+  
+➠ Uploaded files to the bucket:
+- Uploaded various files to the S3 bucket to test storage and retrieval capabilities. This provided hands-on experience with S3's upload functionalities and permissions settings.
 
 ### Day 2: Securing and Distributing Content
-- **Enabled encryption for the uploaded files**:
-  - Ensured data is encrypted at rest.
-
-- **Created a CloudFront distribution and integrated it with the S3 bucket**:
-  - Set up CloudFront for low latency and high transfer speeds.
+➠ *Enabled encryption for the uploaded files*:
+  - To enhance data security, I enabled server-side encryption for the files uploaded to the S3 bucket. This ensures that data is encrypted at rest, protecting it from unauthorized access.
+    
+➠ *Created a CloudFront distribution and integrated it with the S3 bucket*:
+  - Created an Amazon CloudFront distribution to deliver content stored in the S3 bucket with low latency and high transfer speeds. This involved setting up the distribution and linking it to the S3 bucket, demonstrating how CloudFront can improve content delivery performance.
 
 - CDN(Content Delivery Network) --
 
@@ -213,23 +213,21 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
   - Set up API Gateway to expose Lambda functions as RESTful API endpoints.
 
 ### Day 4: Implementing CRUD Operations
-- **Get /items**:
-  - Configured the endpoint to retrieve all items from DynamoDB.
+- **Building the Get All Endpoint (GET /items)**:  
+  - I configured an API endpoint that retrieves all items stored in our DynamoDB table. When a user sends a GET request to this endpoint, the Lambda function 
+    kicks in, fetches all the items, and returns them in the response.
 
-- **Put /items**:
-  - Set up the endpoint to add new items to DynamoDB.
+- **Building the Create Item Endpoint (PUT /items)**: 
+  - Next, I created an endpoint that allows users to add new items to the DynamoDB table.  This endpoint interacts with the Lambda function, which processes the 
+    incoming request and inserts the new item into the table.
 
-- **Get /items/{id}**:
-  - Implemented the endpoint to retrieve a specific item by ID.
+- **Building the Get Item Endpoint (GET /items/{id})**: 
+  - I then implemented an endpoint that retrieves a specific item based on its unique ID.  The Lambda function uses the ID parameter to query DynamoDB and return 
+    the requested item.
 
-- **Delete /items/{id}**:
-  - Configured the endpoint to remove an item from DynamoDB.
-
-- **Configured API Endpoints with Lambda Code**:
-  - Linked API Gateway endpoints with Lambda functions.
-
-- **Tested APIs through Curl and Browser**:
-  - Verified CRUD operations using curl commands and a web browser.
+- **Building the Delete Item Endpoint (DELETE /items/{id})**: 
+  - Finally, I configured an endpoint for deleting items from the DynamoDB table. The Lambda function handles the deletion process and ensures the item is removed 
+    based on the provided ID.
 
 
 
