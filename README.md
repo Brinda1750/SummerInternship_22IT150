@@ -208,6 +208,30 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 - **Wrote a Lambda Function as a Backend**:
   - Developed a Lambda function in Python to interact with DynamoDB for CRUD operations.
 
+### Day 3: Configuring API Endpoints
+- **Configured API Endpoints on API Gateway**:
+  - Set up API Gateway to expose Lambda functions as RESTful API endpoints.
+
+### Day 4: Implementing CRUD Operations
+- **Get /items**:
+  - Configured the endpoint to retrieve all items from DynamoDB.
+
+- **Put /items**:
+  - Set up the endpoint to add new items to DynamoDB.
+
+- **Get /items/{id}**:
+  - Implemented the endpoint to retrieve a specific item by ID.
+
+- **Delete /items/{id}**:
+  - Configured the endpoint to remove an item from DynamoDB.
+
+- **Configured API Endpoints with Lambda Code**:
+  - Linked API Gateway endpoints with Lambda functions.
+
+- **Tested APIs through Curl and Browser**:
+  - Verified CRUD operations using curl commands and a web browser.
+
+
 
 
 
