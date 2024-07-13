@@ -228,7 +228,43 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 - **Building the Delete Item Endpoint (DELETE /items/{id})**: 
   - Finally, I configured an endpoint for deleting items from the DynamoDB table. The Lambda function handles the deletion process and ensures the item is removed 
     based on the provided ID.
+    
+- **Configure API Endpoints with Lambda Code**:
+- Linked the API Gateway endpoints with the corresponding Lambda functions. This integration allows API Gateway to invoke the correct Lambda function for each API request, ensuring the backend logic is executed properly.
 
+- **Test Out APIs through Curl and Browser**:
+- Tested the configured APIs using curl commands and a web browser to ensure they work as expected. Verified that the CRUD operations (Create, Read, Update, Delete) perform correctly and that the APIs return the appropriate responses for different scenarios.
+
+
+## 4️⃣ week 4
+
+### *21st June 2024*
+- *Online Session*: Introduction to AWS Bedrock, S3, and Knowledge Base Integration
+- This week focused on building a knowledge base using AWS Bedrock, creating a vector store for efficient data retrieval, and interacting with the knowledge base using an agent.
+
+  <img src="https://community.aws/_next/image?url=https%3A%2F%2Fassets.community.aws%2Fa%2F2Z6yg51zfyrwr7WzyFJ4zNsUukb.png%3FimgSize%3D2772x1102&w=3840&q=75" width="550" height="300"/>
+
+### *Here is the Outline of Week-4:*
+1. Create a Bucket
+2. Upload my Resume
+3. Create Knowledge Base in BedRock
+4. Link S3 Bucket Object (Resume) with this Knowledge Base
+5. Create Vector Store using Embeddings and Data Source
+6. Test Knowledge Base using Generate Responses
+7. Test Knowledge Base without using Generate Responses
+8. Create an Agent
+9. Connect it with Knowledge Base
+10. Interact with your Resume
+
+## 📝 Day-by-Day Progress
+
+### Day 1: Setting Up the S3 Bucket and Uploading Resume
+
+- **Create a Bucket**:
+- Created a new S3 bucket for storing objects. Amazon S3 is a scalable object storage service that allows for the storage and retrieval of any amount of data at any time.
+
+- **Upload my Resume**:
+- Uploaded my resume to the S3 bucket. This step is crucial for linking the resume to the knowledge base in Bedrock.
 
 
 
