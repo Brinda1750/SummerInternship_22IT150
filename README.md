@@ -184,7 +184,7 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 - **Online Session**: Introduction to AWS DynamoDB, API Gateway, and Lambda Functions
   - Focused on building a serverless backend using AWS services like DynamoDB, API Gateway, and Lambda Functions. Worked on creating CRUD APIs for managing items in a DynamoDB table.
 
-<img src="https://miro.medium.com/v2/resize:fit:875/1*wTzGiPWycNkklwBPDeVbMw.png" height="400"/>
+<img src="https://miro.medium.com/v2/resize:fit:828/1*azZXECXc2CKfdAvet92bLA.gif" height="400"/>
 
 ### Week 3 Outline:
 
