@@ -289,6 +289,11 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 - **Connect it with Knowledge Base**:
   - Linked the created agent with the knowledge base to enable it to access and retrieve information from the resume stored in S3.
 
+### Day 5: Interacting with the Resume
+- **Interact with your Resume**:
+  - Interacted with the resume through the agent. This involved querying the agent to retrieve specific information from the resume, ensuring the setup was functional and effective.
+
+
 
 
 
