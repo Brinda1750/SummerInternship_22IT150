@@ -299,6 +299,17 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 - **Embeddings**: For creating vector stores to enable efficient search and retrieval.
 - **Agents**: For facilitating interaction with the knowledge base and users.
 
+### Summary of New Learnings
+- Learned to create and manage a scalable object storage solution using Amazon S3.
+- Built a knowledge base in AWS Bedrock and linked it with S3 data sources.
+- Created and tested vector stores using embeddings for efficient data retrieval.
+- Developed an agent to interact with the knowledge base and retrieve information.
+
+### Future Work
+- Explore advanced features of Bedrock for more complex knowledge management.
+- Integrate additional data sources with the knowledge base.
+- Implement more sophisticated querying and interaction techniques with the agent.
+
 
 
 
