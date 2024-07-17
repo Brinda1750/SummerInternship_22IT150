@@ -265,6 +265,13 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 - **Upload my Resume**:
   - Uploaded my resume to the S3 bucket. This step is crucial for linking the resume to the knowledge base in Bedrock.
 
+### Day 2: Creating and Linking Knowledge Base in Bedrock
+- **Create Knowledge Base in BedRock**:
+  - Created a knowledge base in AWS Bedrock. Bedrock is used for building intelligent applications with comprehensive knowledge management and natural language understanding capabilities.
+
+- **Link S3 Bucket Object (Resume) with this Knowledge Base**:
+  - Linked the uploaded resume from the S3 bucket to the knowledge base. This allows Bedrock to use the resume as a data source for generating responses.
+
 
 
 
