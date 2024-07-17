@@ -272,6 +272,15 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 - **Link S3 Bucket Object (Resume) with this Knowledge Base**:
   - Linked the uploaded resume from the S3 bucket to the knowledge base. This allows Bedrock to use the resume as a data source for generating responses.
 
+### Day 3: Building and Testing the Vector Store
+- **Create Vector Store using Embeddings and Data Source**:
+  - Created a vector store using embeddings to enable efficient data retrieval. This involved transforming the resume data into vector embeddings that Bedrock can use for quick search and retrieval.
+
+- **Test Knowledge Base using Generate Responses**:
+  - Tested the knowledge base by generating responses from the linked resume data. This helped verify that the knowledge base correctly understands and retrieves information from the resume.
+
+- **Test Knowledge Base without using Generate Responses**:
+  - Conducted tests on the knowledge base without using the generate response feature to ensure it can handle direct queries and return accurate information.
 
 
 
