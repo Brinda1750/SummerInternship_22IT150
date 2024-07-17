@@ -239,8 +239,8 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 ## 4️⃣ week 4
 
 ### *21st June 2024*
-- *Online Session*: Introduction to AWS Bedrock, S3, and Knowledge Base Integration
-- This week focused on building a knowledge base using AWS Bedrock, creating a vector store for efficient data retrieval, and interacting with the knowledge base using an agent.
+- **Online Session**: Introduction to AWS Bedrock, S3, and Knowledge Base Integration
+  - This week focused on building a knowledge base using AWS Bedrock, creating a vector store for efficient data retrieval, and interacting with the knowledge base using an agent.
 
   <img src="https://community.aws/_next/image?url=https%3A%2F%2Fassets.community.aws%2Fa%2F2Z6yg51zfyrwr7WzyFJ4zNsUukb.png%3FimgSize%3D2772x1102&w=3840&q=75" width="550" height="300"/>
 
@@ -259,12 +259,11 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 ## 📝 Day-by-Day Progress
 
 ### Day 1: Setting Up the S3 Bucket and Uploading Resume
-
 - **Create a Bucket**:
-- Created a new S3 bucket for storing objects. Amazon S3 is a scalable object storage service that allows for the storage and retrieval of any amount of data at any time.
+  - Created a new S3 bucket for storing objects. Amazon S3 is a scalable object storage service that allows for the storage and retrieval of any amount of data at any time.
 
 - **Upload my Resume**:
-- Uploaded my resume to the S3 bucket. This step is crucial for linking the resume to the knowledge base in Bedrock.
+  - Uploaded my resume to the S3 bucket. This step is crucial for linking the resume to the knowledge base in Bedrock.
 
 
 
