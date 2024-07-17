@@ -282,6 +282,12 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 - **Test Knowledge Base without using Generate Responses**:
   - Conducted tests on the knowledge base without using the generate response feature to ensure it can handle direct queries and return accurate information.
 
+### Day 4: Creating and Connecting an Agent
+- **Create an Agent**:
+  - Created an agent in AWS Bedrock. Agents in Bedrock are responsible for interacting with users and providing responses based on the knowledge base.
+
+- **Connect it with Knowledge Base**:
+  - Linked the created agent with the knowledge base to enable it to access and retrieve information from the resume stored in S3.
 
 
 
