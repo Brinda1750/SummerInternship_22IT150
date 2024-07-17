@@ -293,6 +293,11 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 - **Interact with your Resume**:
   - Interacted with the resume through the agent. This involved querying the agent to retrieve specific information from the resume, ensuring the setup was functional and effective.
 
+### Technologies Explored
+- **S3**: For storing and managing resume data.
+- **Bedrock**: For creating a knowledge base and intelligent data retrieval.
+- **Embeddings**: For creating vector stores to enable efficient search and retrieval.
+- **Agents**: For facilitating interaction with the knowledge base and users.
 
 
 
